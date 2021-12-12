@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Im a JavaScript Developper !
+Im a JavaScript Developper ! Why not or not ?
 <!--
 **Redha51/Redha51** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
